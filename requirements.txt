@@ -1,0 +1,3 @@
+#/djangonote/requirements.txt
+Django==3.0.5
+django-extensions==2.2.9
