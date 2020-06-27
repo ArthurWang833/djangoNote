@@ -1,4 +1,4 @@
 #/djangonote/requirements.txt
-#python==3.7.5
+# python==3.7.5
 Django==3.0.7
 django-extensions==2.2.9
