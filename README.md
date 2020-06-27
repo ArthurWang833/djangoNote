@@ -76,6 +76,6 @@ To-do list:
 Project is in progress
 ## Inspiration
 <!-- Add here credits. Project inspired by..., based on... -->
-[Django Tutorial]:https://souldeux.com/blog/django-note-app-tutorial-part-1-layout-file-structure/
+[Django Tutorial]:(https://souldeux.com/blog/django-note-app-tutorial-part-1-layout-file-structure/)
 ## Contact
 arthur Wang email wzhvonurmqi@gmail.com - feel free to contact me!
